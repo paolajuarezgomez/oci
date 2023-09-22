@@ -2,6 +2,7 @@
 
 Estimated Time: 60 - 90 minutes
 
+![Open LZ](images/oci_open_lz.png)
 
 ## About this Workshop
 
