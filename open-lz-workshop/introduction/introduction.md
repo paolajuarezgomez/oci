@@ -32,9 +32,10 @@ Welcome to the OCI Open LZ LiveLab, a guided process to deploy the OCI Open LZ b
 ### Prerequisites 
 
 This lab assumes you:
-* Have an Oracle account and a paid tenancy, the always-free account is not supported.
+* Have a paid tenancy, the always-free account is not supported.
+* Have an Oracle account with Administrator privileges.
 * Understand OCI Core Resources (Compartments, Groups, Policies, Network Elements, etc.)
-* Are familiar with Github and Terraform
+* Are familiar with Github and Terraform.
 
 ## Learn More
 
