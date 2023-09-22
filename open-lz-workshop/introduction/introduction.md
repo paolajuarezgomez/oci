@@ -12,7 +12,6 @@ The OCI Open LZ ( Operating Entities Landing Zone ) is a landing zone that simpl
 
 With this LiveLab you will setup the OCI Open LZ through simple IaC configurations, with human-readable JSON/HCLs, giving you the ability to master the approach to create and tailor your own landing zones.
 
-*You may add an option video, using this format: [](youtube:YouTube video id)*
 
  [OCI Open LZ Blueprint: 5 minutes](https://youtu.be/JWKRHfO4LnY?si=LvM5qBAlDHn2Bk8J)
 
@@ -39,7 +38,7 @@ This lab assumes you:
 
 ## Learn More
 
-* [Opem LZ Blueprint](https://github.com/oracle-quickstart/terraform-oci-open-lz)
+* [Open LZ Blueprint](https://github.com/oracle-quickstart/terraform-oci-open-lz)
 
 
 ## Acknowledgements
