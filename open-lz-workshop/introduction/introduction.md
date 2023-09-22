@@ -45,7 +45,7 @@ This lab assumes you:
 ## Acknowledgements
 
 - **Authors**:
-- Jose Palmeiro, Landing Zone Specialist Leader, TCE 
-- Paola Juárez, Landing Zone Specialist Engineer, TCE 
-
+  Jose Palmeiro, Landing Zone Specialist Leader, TCE 
+  Paola Juárez, Landing Zone Specialist Engineer, TCE 
+- **Contributors**:
 - **Last Updated By/Date** - Paola Juarez, October 2023
