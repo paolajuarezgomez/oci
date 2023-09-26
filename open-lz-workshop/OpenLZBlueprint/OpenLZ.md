@@ -63,4 +63,15 @@ In terms of design, this approach is simple and repeatable, and can involve the 
 ## Secure View :
 
 
+# Other Considerations :
+
+Note that the alternative for not using the configurable approach described is to code your own solution, from zero or reuse existing modules. The CIS Landing Zone Enhanced Modules allow any configuration topology and allow to focus on business resources (workloads) instead of investing time coding to create OCI core resources. By using the recommended approach it's possible to avoid the common pitfalls associated with complex customizations:
+
+* **Hard-coding**. Changing or adapting code to create a new landing zone different than the original is complex and time-consuming. This also means that any change to the landing zone will be executed by code and not configurations.
+* **Waste & Late Time-to-Value**. The time spent on adapting code, or re-coding over and over for the OCI landing/core resources is time wasted and not used on the business value/workloads.
+* **Limited Scaling**. Doing OCI changes manually can work for some tactical solutions, but it will always limit the scaling and add complexity and cost to the day-two operations. Note that, for example, CIS LZ creates 100+ OCI resources.
+
+* **Scarce Skills**. IaC Terraform coding skills are not as common as we should expect, which makes these efforts a higher risk and challenge to solve.
+
+
 
