@@ -47,12 +47,13 @@ In order to deploy you own Open LZ you need to review first the design that it i
 
 After undestand the solution you will be able to run it.
 
-![OCI CIS Landing Zone Logo](images/oci_open_tailored_workflow.png "OCI OpenLZ workflow")
-
 
 # Design 
 
-[OCI Open LZ Blueprint] (https://github.com/oracle-quickstart/terraform-oci-open-lz) is a **reference solution** and a **repeatable design process**. It presents an end-to-end coherent solution – with the security, network, and operations views – of what an organization-wide landing zone looks like, with fine- grained segregation of duties, strong isolation of resources, and a scaleable operating model.
+![OCI CIS Landing Zone Logo](images/oci_open_design.png "OCI OpenLZ workflow")
+
+
+[OCI Open LZ Blueprint](https://github.com/oracle-quickstart/terraform-oci-open-lz) is a **reference solution** and a **repeatable design process**. It presents an end-to-end coherent solution – with the security, network, and operations views – of what an organization-wide landing zone looks like, with fine- grained segregation of duties, strong isolation of resources, and a scaleable operating model.
 
 The benefit of this blueprint is that it can be completely adjusted and easily simplified into any other type of landing zone, by following the design steps towards your needs. 
 
@@ -177,6 +178,12 @@ The OCI Open LZ has four network areas which are presented and described in the 
 **Network Connectivity and Design Consideration** 
   
 To check more details these areas we recommend to check the [OCI Open LZ Blueprint] (https://github.com/oracle-quickstart/terraform-oci-open-lz)
+
+
+# Run
+
+![OCI CIS Landing Zone Logo](images/oci_open_run.png "OCI OpenLZ workflow")
+
 
 # Other Considerations :
 
