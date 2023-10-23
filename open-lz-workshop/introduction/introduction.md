@@ -6,7 +6,7 @@ Estimated Time: n minutes
 
 ## About this Workshop
 
-Designing and coding your Landing Zone can be a complex, time consuming, and an extremely costly task, requiring deep design and IaC skills. Worst of all, when you reach the coding part it's like reinventing the wheel, i.e., you will hard-code your solution, which is hard to justify in the present days. The OCI Open LZ was creates with this in minds, to help you tailor your OCI landing zone with a reference design, and help you setup OCI resources in a human-readable Terraform native configuration, which is easy to operate and maintain, reducing drastically the complexity of onboarding and day two operations. The OCI Open LZ is an end-to-end runnable blueprint that utilises the configurable CIS Landing Zones Enhanced Modules to automate the provisioning and change of tailored Landing Zones. 
+Designing and coding your Landing Zone can be a complex, time consuming, and an extremely costly task, requiring deep design and IaC skills. Worst of all, when you reach the coding part it's like reinventing the wheel, i.e., you will hard-code your solution, which is hard to justify in the present days. The OCI Open LZ was creates with this in minds, to help you tailor your OCI landing zone with a reference design, and help you setup OCI resources in a human-readable Terraform native configuration, which is easy to operate and maintain, reducing drastically the complexity of onboarding and day two operations. The OCI Open LZ is an end-to-end runnable blueprint that utilises the configurable CIS Landing Zones Enhanced Modules to automate the provisioning and change of tailored Landing Zones.
 
 The OCI Open LZ ( Operating Entities Landing Zone ) is a landing zone that simplifies the onboarding of organisations, business units, and subsidiaries into OCI. It is a reference blueprint and a repeatable design process of an end-to-end solution - with the security, network, and operations views - of what an organization wide landing zone can look like. It includes the fine-grained segregation of duties, strong isolation of resources, and a scalable operating model.
 
@@ -29,7 +29,7 @@ Welcome to the OCI Open LZ LiveLab, a guided process to deploy the OCI Open LZ b
 5. Change OE Project Network Connectivity (North-South)
 
 
-### Prerequisites 
+### Prerequisites
 
 This lab assumes you:
 * Have a paid tenancy, the always-free account is not supported.
@@ -45,7 +45,7 @@ This lab assumes you:
 ## Acknowledgements
 
 - **Authors**:
-  Jose Palmeiro, Landing Zone Specialist Leader, TCE 
-  Paola Juárez, Landing Zone Specialist Engineer, TCE 
+  Jose Palmeiro, Landing Zone Specialist Leader, TCE
+  Paola Juárez, Landing Zone Specialist Engineer, TCE
 - **Contributors**:
 - **Last Updated By/Date** - Paola Juarez, October 2023
